@@ -1,0 +1,43 @@
+name: Update Contributions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+          TARGET_USERNAME: "slash-aech"
+        run: python scripts/generate_readme.py
+
+      - name: Commit README
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add README.md
+
+          git diff --cached --quiet || git commit -m "Update contribution README"
+
+          git push
