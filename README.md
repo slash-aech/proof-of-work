@@ -8,8 +8,8 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 13 |
-| Merged PRs | 5 |
+| Total PRs | 4 |
+| Merged PRs | 3 |
 | Total Issues | 4 |
 | Closed Issues | 0 |
 | PR Reviews | 1 |
@@ -40,20 +40,6 @@ GitHub contributions for @slash-aech
 | rkik | Diplaying errors when using --plugin flag with conflicting flags | Merged | 2026-05-08 | [#68](https://github.com/aguacero7/rkik/pull/68) |
 
 # 🏢 slash-aech
-
-## Pull Requests
-
-| Repo | Title | Status | Created | Link |
-|---|---|---|---|---|
-| cggmp21 | dummy pull request | Open | 2026-04-13 | [#9](https://github.com/slash-aech/cggmp21/pull/9) |
-| cggmp21 | Bench ci test | Merged | 2026-04-13 | [#8](https://github.com/slash-aech/cggmp21/pull/8) |
-| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#7](https://github.com/slash-aech/cggmp21/pull/7) |
-| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#6](https://github.com/slash-aech/cggmp21/pull/6) |
-| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#5](https://github.com/slash-aech/cggmp21/pull/5) |
-| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#4](https://github.com/slash-aech/cggmp21/pull/4) |
-| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#3](https://github.com/slash-aech/cggmp21/pull/3) |
-| cggmp21 | made changes in the repo where I've added a new way of running tests … | Merged | 2026-04-13 | [#2](https://github.com/slash-aech/cggmp21/pull/2) |
-| cggmp21 | Test bench | Closed | 2026-04-13 | [#1](https://github.com/slash-aech/cggmp21/pull/1) |
 
 ## Issues
 
