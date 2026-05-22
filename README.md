@@ -1,42 +1,79 @@
-# 🚀 OSS Proof of Work
+# 🚀 Open Source Proof of Work
 
-Automatically generate a README of GitHub contributions:
+GitHub contributions for @slash-aech
 
-- Pull Requests
-- Issues
-- Reviews
-- Organization filtering
-- Auto-updating with GitHub Actions
+---
 
-## Setup
+## 📊 Contribution Stats
 
-1. Fork or upload this repo to your GitHub account.
-2. Edit `config.json`
-3. Push the repository.
-4. GitHub Actions will automatically update the README.
+| Metric | Count |
+|---|---|
+| Total PRs | 13 |
+| Merged PRs | 5 |
+| Total Issues | 4 |
+| Closed Issues | 0 |
+| PR Reviews | 1 |
 
-## Configure Username
 
-By default, the workflow uses the repository owner (`github.actor`).
+# 🏢 LFDT-Lockness
 
-To track another user, edit the workflow:
+## Pull Requests
 
-```yaml
-env:
-  TARGET_USERNAME: your-target-username
-```
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| cggmp21 | Testing out my new thingy | Closed | 2026-04-13 | [#179](https://github.com/LFDT-Lockness/cggmp21/pull/179) |
 
-If `TARGET_USERNAME` is not set, the repo owner is used automatically.
+# 🏢 ZFordDev
 
-## Manual Trigger
+## Pull Requests
 
-Go to:
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| MathPlus | Changes in UI, and added an extra copy button | Merged | 2026-05-15 | [#8](https://github.com/ZFordDev/MathPlus/pull/8) |
 
-Actions → Update Contributions → Run workflow
+# 🏢 aguacero7
 
-## Local Run
+## Pull Requests
 
-```bash
-pip install -r requirements.txt
-python scripts/generate_readme.py
-```
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| rkik | Diplaying errors when using --plugin flag with conflicting flags | Merged | 2026-05-08 | [#68](https://github.com/aguacero7/rkik/pull/68) |
+
+# 🏢 slash-aech
+
+## Pull Requests
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| cggmp21 | dummy pull request | Open | 2026-04-13 | [#9](https://github.com/slash-aech/cggmp21/pull/9) |
+| cggmp21 | Bench ci test | Merged | 2026-04-13 | [#8](https://github.com/slash-aech/cggmp21/pull/8) |
+| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#7](https://github.com/slash-aech/cggmp21/pull/7) |
+| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#6](https://github.com/slash-aech/cggmp21/pull/6) |
+| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#5](https://github.com/slash-aech/cggmp21/pull/5) |
+| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#4](https://github.com/slash-aech/cggmp21/pull/4) |
+| cggmp21 | Bench ci test | Closed | 2026-04-13 | [#3](https://github.com/slash-aech/cggmp21/pull/3) |
+| cggmp21 | made changes in the repo where I've added a new way of running tests … | Merged | 2026-04-13 | [#2](https://github.com/slash-aech/cggmp21/pull/2) |
+| cggmp21 | Test bench | Closed | 2026-04-13 | [#1](https://github.com/slash-aech/cggmp21/pull/1) |
+
+## Issues
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| cpp-compiler-in-rust | Working Main.rs | Open | 2026-05-10 | [#4](https://github.com/slash-aech/cpp-compiler-in-rust/issues/4) |
+| cpp-compiler-in-rust | Make a superior type checking | Open | 2026-05-10 | [#3](https://github.com/slash-aech/cpp-compiler-in-rust/issues/3) |
+| cpp-compiler-in-rust | Add a Recursive Descent Parser | Open | 2026-05-10 | [#2](https://github.com/slash-aech/cpp-compiler-in-rust/issues/2) |
+| cpp-compiler-in-rust | Review AST and add better comments for understanding | Open | 2026-05-10 | [#1](https://github.com/slash-aech/cpp-compiler-in-rust/issues/1) |
+
+## PR Reviews
+
+| Repo | Title | Created | Link |
+|---|---|---|---|
+| Fact-checker | Update settings, API, and .gitignore | 2026-04-15 | [#1](https://github.com/slash-aech/Fact-checker/pull/1) |
+
+# 🏢 sotiamaestro
+
+## Pull Requests
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| llama-code | Added version flag | Merged | 2026-05-09 | [#4](https://github.com/sotiamaestro/llama-code/pull/4) |
