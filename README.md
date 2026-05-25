@@ -8,8 +8,8 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 4 |
-| Merged PRs | 3 |
+| Total PRs | 6 |
+| Merged PRs | 5 |
 | Total Issues | 4 |
 | Closed Issues | 0 |
 | PR Reviews | 1 |
@@ -40,6 +40,13 @@ GitHub contributions for @slash-aech
 | rkik | Diplaying errors when using --plugin flag with conflicting flags | Merged | 2026-05-08 | [#68](https://github.com/aguacero7/rkik/pull/68) |
 
 # 🏢 slash-aech
+
+## Pull Requests
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| OT-in-rust | Addition of actual cryptography functions along with error handling a… | Merged | 2026-05-24 | [#2](https://github.com/slash-aech/OT-in-rust/pull/2) |
+| OT-in-rust | Addition of logic for the states of the sender and reciever | Merged | 2026-05-24 | [#1](https://github.com/slash-aech/OT-in-rust/pull/1) |
 
 ## Issues
 
