@@ -10,7 +10,7 @@ GitHub contributions for @slash-aech
 |---|---|
 | Total PRs | 6 |
 | Merged PRs | 5 |
-| Total Issues | 4 |
+| Total Issues | 5 |
 | Closed Issues | 0 |
 | PR Reviews | 1 |
 
@@ -52,6 +52,7 @@ GitHub contributions for @slash-aech
 
 | Repo | Title | Status | Created | Link |
 |---|---|---|---|---|
+| cryptopals-rust-solutions | SET 1 | Open | 2026-06-10 | [#1](https://github.com/slash-aech/cryptopals-rust-solutions/issues/1) |
 | cpp-compiler-in-rust | Working Main.rs | Open | 2026-05-10 | [#4](https://github.com/slash-aech/cpp-compiler-in-rust/issues/4) |
 | cpp-compiler-in-rust | Make a superior type checking | Open | 2026-05-10 | [#3](https://github.com/slash-aech/cpp-compiler-in-rust/issues/3) |
 | cpp-compiler-in-rust | Add a Recursive Descent Parser | Open | 2026-05-10 | [#2](https://github.com/slash-aech/cpp-compiler-in-rust/issues/2) |
