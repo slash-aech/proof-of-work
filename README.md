@@ -8,11 +8,11 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 6 |
-| Merged PRs | 5 |
-| Total Issues | 5 |
+| Total PRs | 7 |
+| Merged PRs | 6 |
+| Total Issues | 6 |
 | Closed Issues | 0 |
-| PR Reviews | 1 |
+| PR Reviews | 2 |
 
 
 # 🏢 LFDT-Lockness
@@ -38,6 +38,26 @@ GitHub contributions for @slash-aech
 | Repo | Title | Status | Created | Link |
 |---|---|---|---|---|
 | rkik | Diplaying errors when using --plugin flag with conflicting flags | Merged | 2026-05-08 | [#68](https://github.com/aguacero7/rkik/pull/68) |
+
+# 🏢 hyperledger-solang
+
+## Pull Requests
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| solang | [Soroban] Linked support for block.number on soroban | Merged | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
+
+## Issues
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| solang | Cargo clippy produces multiple lints | Open | 2026-07-16 | [#1940](https://github.com/hyperledger-solang/solang/issues/1940) |
+
+## PR Reviews
+
+| Repo | Title | Created | Link |
+|---|---|---|---|
+| solang | [Soroban] Linked support for block.number on soroban | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
 
 # 🏢 slash-aech
 
