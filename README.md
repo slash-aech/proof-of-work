@@ -8,11 +8,11 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 7 |
-| Merged PRs | 6 |
+| Total PRs | 8 |
+| Merged PRs | 7 |
 | Total Issues | 6 |
 | Closed Issues | 0 |
-| PR Reviews | 2 |
+| PR Reviews | 3 |
 
 
 # 🏢 LFDT-Lockness
@@ -45,6 +45,7 @@ GitHub contributions for @slash-aech
 
 | Repo | Title | Status | Created | Link |
 |---|---|---|---|---|
+| solang | changed ledger timestamp lowering from emit to codegen | Merged | 2026-07-21 | [#1970](https://github.com/hyperledger-solang/solang/pull/1970) |
 | solang | [Soroban] Linked support for block.number on soroban | Merged | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
 
 ## Issues
@@ -57,6 +58,7 @@ GitHub contributions for @slash-aech
 
 | Repo | Title | Created | Link |
 |---|---|---|---|
+| solang | changed ledger timestamp lowering from emit to codegen | 2026-07-21 | [#1970](https://github.com/hyperledger-solang/solang/pull/1970) |
 | solang | [Soroban] Linked support for block.number on soroban | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
 
 # 🏢 slash-aech
