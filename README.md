@@ -8,8 +8,8 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 8 |
-| Merged PRs | 7 |
+| Total PRs | 9 |
+| Merged PRs | 8 |
 | Total Issues | 6 |
 | Closed Issues | 0 |
 | PR Reviews | 3 |
@@ -45,6 +45,7 @@ GitHub contributions for @slash-aech
 
 | Repo | Title | Status | Created | Link |
 |---|---|---|---|---|
+| solang | linked support for keccak256 | Merged | 2026-07-27 | [#1989](https://github.com/hyperledger-solang/solang/pull/1989) |
 | solang | changed ledger timestamp lowering from emit to codegen | Merged | 2026-07-21 | [#1970](https://github.com/hyperledger-solang/solang/pull/1970) |
 | solang | [Soroban] Linked support for block.number on soroban | Merged | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
 
