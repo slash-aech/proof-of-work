@@ -10,7 +10,7 @@ GitHub contributions for @slash-aech
 |---|---|
 | Total PRs | 10 |
 | Merged PRs | 9 |
-| Total Issues | 12 |
+| Total Issues | 20 |
 | Closed Issues | 0 |
 | PR Reviews | 3 |
 
@@ -76,6 +76,14 @@ GitHub contributions for @slash-aech
 
 | Repo | Title | Status | Created | Link |
 |---|---|---|---|---|
+| cryptopals-rust-solutions | Detect AES in ECB mode | Open | 2026-09-14 | [#9](https://github.com/slash-aech/cryptopals-rust-solutions/issues/9) |
+| cryptopals-rust-solutions | AES in ECB mode | Open | 2026-09-14 | [#8](https://github.com/slash-aech/cryptopals-rust-solutions/issues/8) |
+| cryptopals-rust-solutions | Break repeating-key XOR | Open | 2026-09-14 | [#7](https://github.com/slash-aech/cryptopals-rust-solutions/issues/7) |
+| cryptopals-rust-solutions | Implement repeating key XOR | Open | 2026-09-14 | [#6](https://github.com/slash-aech/cryptopals-rust-solutions/issues/6) |
+| cryptopals-rust-solutions | Detect single-character XOR | Open | 2026-09-14 | [#5](https://github.com/slash-aech/cryptopals-rust-solutions/issues/5) |
+| cryptopals-rust-solutions | Single-byte XOR cipher | Open | 2026-09-14 | [#4](https://github.com/slash-aech/cryptopals-rust-solutions/issues/4) |
+| cryptopals-rust-solutions | Fixed XOR | Open | 2026-09-14 | [#3](https://github.com/slash-aech/cryptopals-rust-solutions/issues/3) |
+| cryptopals-rust-solutions | Convert hex to base64 | Open | 2026-09-14 | [#2](https://github.com/slash-aech/cryptopals-rust-solutions/issues/2) |
 | grievance-portal-nita | Tentative tech stack to be used for the portal | Open | 2026-09-03 | [#7](https://github.com/slash-aech/grievance-portal-nita/issues/7) |
 | grievance-portal-nita | Wireframe/UI prototype of the portal | Open | 2026-09-03 | [#6](https://github.com/slash-aech/grievance-portal-nita/issues/6) |
 | grievance-portal-nita | Sub-issue Deliverables and their deadlines | Open | 2026-09-02 | [#4](https://github.com/slash-aech/grievance-portal-nita/issues/4) |
