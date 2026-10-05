@@ -8,11 +8,11 @@ GitHub contributions for @slash-aech
 
 | Metric | Count |
 |---|---|
-| Total PRs | 10 |
+| Total PRs | 11 |
 | Merged PRs | 9 |
 | Total Issues | 20 |
 | Closed Issues | 0 |
-| PR Reviews | 3 |
+| PR Reviews | 4 |
 
 
 # 🏢 LFDT-Lockness
@@ -61,6 +61,20 @@ GitHub contributions for @slash-aech
 |---|---|---|---|
 | solang | changed ledger timestamp lowering from emit to codegen | 2026-07-21 | [#1970](https://github.com/hyperledger-solang/solang/pull/1970) |
 | solang | [Soroban] Linked support for block.number on soroban | 2026-07-16 | [#1939](https://github.com/hyperledger-solang/solang/pull/1939) |
+
+# 🏢 mimblewimble
+
+## Pull Requests
+
+| Repo | Title | Status | Created | Link |
+|---|---|---|---|---|
+| grin | WIP: Fall back to plain output when colors are unavailable | Open | 2026-10-01 | [#3946](https://github.com/mimblewimble/grin/pull/3946) |
+
+## PR Reviews
+
+| Repo | Title | Created | Link |
+|---|---|---|---|
+| grin | WIP: Fall back to plain output when colors are unavailable | 2026-10-01 | [#3946](https://github.com/mimblewimble/grin/pull/3946) |
 
 # 🏢 slash-aech
 
